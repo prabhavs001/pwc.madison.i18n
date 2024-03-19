@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:language="en_fi"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="nt:folder">
+    <UserReg_Gated_Content_Internal_Only_Heading
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Gated_Content_Internal_Only_Heading"
+        sling:message="PwC only content - Sign in to keep reading"/>
+    <UserReg_Gated_Content_Message_Licensed
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Gated_Content_Message_Licensed"
+        sling:message="You are trying to access licensed content. Please sign in or, if you do not have a license, &lt;a href=&quot;https://viewpoint.pwc.com/dt/gx/en/pwc/misc/misc_INT/misc_INT/inform_pricing_INT.html&quot; class=&quot;msg-click-here&quot;&gt;click here&lt;/a&gt; to purchase a license to Viewpoint."/>
+    <User_Perseat_Access_Restricted_Message_Licensed
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="User_Perseat_Access_Restricted_Message_Licensed"
+        sling:message="You are trying to access licensed content. Click &lt;a href=&quot;https://viewpoint.pwc.com/dt/gx/en/pwc/misc/misc_INT/misc_INT/inform_pricing_INT.html&quot; class=&quot;msg-click-here&quot;&gt;here&lt;/a&gt; to request a license to Viewpoint."/>
+    <ContentType_GX_Consultation_memo
+          jcr:primaryType="sling:MessageEntry"
+          sling:key="ContentType_GX_Consultation_memo"
+          sling:message="Consultation memo"/>
+    <ss_csrd
+          jcr:primaryType="sling:MessageEntry"
+          sling:key="ss_csrd"
+          sling:message="CSRD"/>
+    <ss_issb
+          jcr:primaryType="sling:MessageEntry"
+          sling:key="ss_issb"
+          sling:message="ISSB"/>
+</jcr:root>

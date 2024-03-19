@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/pwc-madison/i18n/en_ca.xml" mode="merge_properties"/>
+    <filter root="/apps/pwc-madison/i18n/en_gb.xml" mode="merge_properties"/>
+    <filter root="/apps/pwc-madison/i18n/en_gx.xml" mode="merge_properties"/>
+    <filter root="/apps/pwc-madison/i18n/en_ie.xml" mode="merge_properties"/>
+    <filter root="/apps/pwc-madison/i18n/en_jp.xml" mode="merge_properties"/>
+    <filter root="/apps/pwc-madison/i18n/en_us.xml" mode="merge_properties"/>
+    <filter root="/apps/pwc-madison/i18n/en.xml" mode="merge_properties"/>
+    <filter root="/apps/pwc-madison/i18n/fr_ca.xml" mode="merge_properties"/>
+    <filter root="/apps/pwc-madison/i18n/fr.xml" mode="merge_properties"/>
+    <filter root="/apps/pwc-madison/i18n/ja_jp.xml" mode="merge_properties"/>
+    <filter root="/apps/pwc-madison/i18n/ja.xml" mode="merge_properties"/>
+    <filter root="/apps/pwc-madison/i18n/zh_cn.xml" mode="merge_properties"/>
+    <filter root="/apps/pwc-madison/i18n/en_fi.xml" mode="merge_properties"/>
+</workspaceFilter>

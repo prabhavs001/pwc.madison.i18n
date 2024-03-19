@@ -1,0 +1,2534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:language="fr_ca"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="nt:folder">
+    <_x0033_002_x0020_error_x0020_message
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Veuillez choisir un mot de passe différent de vos dix derniers mots de passe. "/>
+    <Accordion_Item_Pagination_Of
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="de"/>
+    <Accordion_Mobile_Link
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Lien"/>
+    <Arrow_Img_Alt_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Flèche"/>
+    <Body_Callout_Back_To_Original_Document
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_Back_To_Original_Document"
+        sling:message="Retourner au document original"/>
+    <Body_Callout_Click_Here
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_Click_Here"
+        sling:message="Cliquer ici pour un affichage côte à côte"/>
+    <Body_Callout_Effective_Date
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_Effective_Date"
+        sling:message="Effective Date"/>
+    <Body_Callout_Editor_Note_Label
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_Editor_Note_Label"
+        sling:message="Note de la rédaction"/>
+    <Body_Callout_Examples
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_Examples"
+        sling:message="Examples"/>
+    <Body_Callout_FAQ
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_FAQ"
+        sling:message="FAQ"/>
+    <Body_Callout_Industry_Insights
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_Industry_Insights"
+        sling:message="Industry Insights"/>
+    <Body_Callout_Internal_User_Text
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_Internal_User_Text"
+        sling:message="Pour usage interne seulement"/>
+    <Body_Callout_Private_User_Text
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_Private_User_Text"
+        sling:message=" For private group only"/>
+    <Body_Callout_Related_Content
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_Related_Content"
+        sling:message="Contenu connexe"/>
+    <Body_Callout_Related_Links
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_Related_Links"
+        sling:message="Related Links"/>
+    <Body_Callout_SME
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_SME"
+        sling:message="SME"/>
+    <Body_Callout_Updated
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_Updated"
+        sling:message="Mise à jour"/>
+    <Body_Callout_Pvt_Grp_int_gacs
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_pvt_grp_int_gacs"
+        sling:message="Pour le groupe privé GACS seulement"/>
+    <Body_Callout_Pvt_Grp_int_industry
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_pvt_grp_int_industry"
+        sling:message="Pour le groupe privé Industry seulement"/>
+    <Body_Callout_Pvt_Grp_us_nqo_archive
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_pvt_grp_us_nqo_archive"
+        sling:message="Pour le groupe privé NQO archive seulement"/>
+    <Body_Callout_Pvt_Grp_us_nqo_asg
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_pvt_grp_us_nqo_asg"
+        sling:message="Pour le groupe privé NQO ASG seulement"/>
+    <Body_Callout_Pvt_Grp_us_nqo
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_pvt_grp_us_nqo"
+        sling:message="Pour le groupe privé NQO seulement"/>
+    <Body_Callout_Pvt_Grp_us_private_group_1
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_pvt_grp_us_private_group_1"
+        sling:message="Pour le groupe privé Private group 1 only"/>
+    <Body_Callout_Pvt_grp_us_content_draft_for_SME_review
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_pvt_grp_us_content_draft_for_SME_review"
+        sling:message="Pour le groupe privé Content- Draft for SME review seulement"/>
+    <Body_Callout_Pvt_grp_us_nqo_release_testing
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Body_Callout_pvt_grp_us_nqo_release_testing"
+        sling:message="Pour le groupe privé NQO Release Testing seulement"/>
+    <carousel_of
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="de"/>
+    <category
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Catégorie"/>
+    <Common_Document_Body_Image_Modal
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="COMPOSANTE MODALE DE L'IMAGE"/>
+    <Common_Document_Body_Table_Modal
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="COMPOSANTE MODALE DU TABLEAU"/>
+    <Common_Document_Body_Tools_And_More
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Outils et plus"/>
+    <Common_Document_Body_View_Image
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Visualiser l'image"/>
+    <Common_Document_Body_View_Table
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Visualiser le tableau"/>
+    <Common_Document_Header_Download
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Télécharger"/>
+    <Common_Document_Header_Link
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Lien"/>
+    <Common_Document_Header_Print
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Imprimer"/>
+    <Common_Document_Header_Toc_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Table des matières"/>
+    <Common_Document_PrintModal_ChkBoxMsg
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Ne plus afficher ce message."/>
+    <Common_Document_PrintModal_ContinueBtnText
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="CONTINUER"/>
+    <Common_Document_PrintModal_PleaseEnsure
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Veuillez vous assurer"/>
+    <Common_Document_PrintModal_PrintBGMsg
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="des options d'impression (couleurs et images)"/>
+    <Common_Document_PrintModal_SelectText
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="que vous sélectionnez"/>
+    <Common_Document_PrintModal_WhenPrint
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="lorsque vous imprimez."/>
+    <Common_Email_Share_Mail
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Courriel"/>
+    <Common_Linkedin
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="LinkedIn"/>
+    <Common_Related_Content_Go_To_Link
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Aller au contenu"/>
+    <Common_Related_Content_Share
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Partager"/>
+    <Common_Related_Content_Switch
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Changer"/>
+    <Common_Twitter
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Twitter"/>
+    <Content_Project_Madison
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Viewpoint"/>
+    <Content_Publication_Date
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Date de publication"/>
+    <ContentType_AC_Insight_CA
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Perspectives comptables"/>
+    <ContentType_Accounting_Guides_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Directives comptables"/>
+    <ContentType_AICPA_Audit_And_Accounting_Guides_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AICPA Guides d'audit et de comptabilité"/>
+    <ContentType_AICPA_Audit_Risk_Alerts_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AICPA Alertes au risques d'audit"/>
+    <ContentType_AICPA_Best_Practices_In_Presentation_And_Disclosure_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AICPA Meilleures pratiques en matière de présentation et de communication de l'information"/>
+    <ContentType_AICPA_Employee_Benefit_Plan_Audit_Quality_Center_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AICPA Centre de qualité de l'audit - régime d'avantages du personnel"/>
+    <ContentType_AICPA_Exposure_Drafts_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AICPA Exposés-sondages"/>
+    <ContentType_AICPA_Measurement_Criteria_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AICPA Critères d'évaluation"/>
+    <ContentType_AICPA_Practice_Aids_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AICPA Outils d'aide"/>
+    <ContentType_AICPA_Professional_Standards_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AICPA Normes professionnelle"/>
+    <ContentType_AICPA_Response_Letters_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AICPA Lettres de réponse"/>
+    <ContentType_AICPA_Technical_Questions_And_Answers_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AICPA Questions et réponses techniques"/>
+    <ContentType_Alert_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Alerte"/>
+    <ContentType_Alerts_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Alertes"/>
+    <ContentType_Alles_Over_NL
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Alles over"/>
+    <ContentType_ARM_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="ARM"/>
+    <ContentType_Audit_Advisor_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Conseiller en audit"/>
+    <ContentType_Audit_Companion_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Audit companion"/>
+    <ContentType_CAQ_comment_letters_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="CAQ Lettres de commentaire"/>
+    <ContentType_Closing_The_GAAP_CA
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Mise à jour sur les PCGR"/>
+    <ContentType_Comment_Letter_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Lettres de commentaires"/>
+    <ContentType_DIG_Issue_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="DIG - Publication"/>
+    <ContentType_Disclosure_Checklist_GX
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Liste de contrôle sur les informations à fournir"/>
+    <ContentType_Doing_Business_Netherlands_NL
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Faire affaire aux Pays-Bas"/>
+    <ContentType_EITF_Issue_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="EITF - Interprétation"/>
+    <ContentType_Examples_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Exemple"/>
+    <ContentType_External_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Externe"/>
+    <ContentType_External_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Externe"/>
+    <ContentType_FAQ_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FAQ"/>
+    <ContentType_FASB_APB_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB - APB"/>
+    <ContentType_FASB_ARB_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB - ARB"/>
+    <ContentType_FASB_ASU_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB ASU"/>
+    <ContentType_FASB_Basis_For_Conclusions_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB Bases for Conclusions"/>
+    <ContentType_FASB_Codification_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB Codification"/>
+    <ContentType_FASB_Concepts_Statement_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB Concepts Statement"/>
+    <ContentType_FASB_Exposure_Draft_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB Exposé sondage"/>
+    <ContentType_FASB_Interpretation_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB Interprétation"/>
+    <ContentType_FASB_Invitation_To_Comment_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB Appel à commentaire"/>
+    <ContentType_FASB_PCC_Revenue_Memo_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB PCC Note sur les produits"/>
+    <ContentType_FASB_QA_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB Foire aux questions"/>
+    <ContentType_FASB_Staff_Paper_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB Document préparé par le personnel"/>
+    <ContentType_FASB_Staff_Position_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB Position du personnel"/>
+    <ContentType_FASB_Statement_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB Déclaration"/>
+    <ContentType_FASB_Technical_Bulletin_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB Bulletin technique"/>
+    <ContentType_FASB_TRG_Credit_Losses_Memo_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB TRG credit losses memo"/>
+    <ContentType_FASB_TRG_Revenue_Memo_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB TRG Note sur les produits"/>
+    <ContentType_Financial_Reporting_Netherlands_NL
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Présentation de l'information financière aux Pays-Bas − Vue d'ensemble"/>
+    <ContentType_Financial_Reporting_Release_CA
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Publication Présentation de l'information financière"/>
+    <ContentType_Ghost_Page_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Page fantôme"/>
+    <ContentType_Handboek_Financiele_Verslaggeving_NL
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Handboek Financiële Verslaggeving"/>
+    <ContentType_Homepage_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Page d'accueil"/>
+    <ContentType_Illustrative_Financial_Statement_GX
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Modèle d'état financier"/>
+    <ContentType_In_Brief_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="En bref"/>
+    <ContentType_In_Brief_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="En bref"/>
+    <ContentType_In_Depth_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="En détail"/>
+    <ContentType_In_Depth_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Pour en savoir plus"/>
+    <ContentType_In_The_Loop_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Information utile"/>
+    <ContentType_In_Transition_GX
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="In transition"/>
+    <ContentType_Landing_Page_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Page de destination"/>
+    <ContentType_Legal_Information_Page_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Page d'informations juridiques"/>
+    <ContentType_Manual_Accounting_GX
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Manuel de comptabilité"/>
+    <ContentType_Methodology_Minute_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Méthodologie"/>
+    <ContentType_Minutes_GX
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Procès-verbal"/>
+    <ContentType_News_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Nouvelles"/>
+    <ContentType_News_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Nouvelles"/>
+    <ContentType_Newsletter_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Bulletin"/>
+    <ContentType_Podcast_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Baladodiffusion"/>
+    <ContentType_Podcast_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Balados"/>
+    <ContentType_Point_Of_View_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Point de vue"/>
+    <ContentType_Policies_GX
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Politiques"/>
+    <ContentType_Presentation_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Présentation"/>
+    <ContentType_Presentation_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Présentation"/>
+    <ContentType_PWC_Audit_Guide_ISAs_GX
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="PwC Audit Guide - ISA"/>
+    <ContentType_PwC_Audit_Nonpublic_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="PwC Non-public Audit Guide"/>
+    <ContentType_PwC_Audit_Public_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="PwC Audit Guide  "/>
+    <ContentType_PwC_Comment_Letter_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Lettres de commentaires de PwC"/>
+    <ContentType_PwC_Consultation_Information_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Information sur la consultation"/>
+    <ContentType_PwC_insights_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Perspectives de PwC"/>
+    <ContentType_PwC_SEC_Volume_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Volume SEC de PwC"/>
+    <ContentType_Quality_Management_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Gestion de la qualité"/>
+    <ContentType_Reporting_Guide_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Guide de présentation de l'information"/>
+    <ContentType_Reporting_Guide_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Guide de présentation de l'information"/>
+    <ContentType_SEC_x0020__Jobs_Act_FAQs_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC Foire aux questions sur la JOBS Act"/>
+    <ContentType_SEC_CDI_x0020__Securities_Act_Forms_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Formulaires relatifs à la Securities Act"/>
+    <ContentType_SEC_CDI_Exchange_Act_Form_8K_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Formulaire 8K -Exchange Act"/>
+    <ContentType_SEC_CDI_Exchange_Act_Forms_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Formulaires relatifs à la Exchange Act"/>
+    <ContentType_SEC_CDI_Exchange_Act_Rule_14A_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Règle 14A de la Exchange Act"/>
+    <ContentType_SEC_CDI_Exchange_Act_Rules_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Règles de la Exchange Act"/>
+    <ContentType_SEC_CDI_Exchange_Act_Sections_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Articles de la Exchange Act"/>
+    <ContentType_SEC_CDI_Fast_Act_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - FAST Act"/>
+    <ContentType_SEC_CDI_Industry_Guides_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Guides sectoriels"/>
+    <ContentType_SEC_CDI_Interactive_Data_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Données interactives"/>
+    <ContentType_SEC_CDI_Oil_And_Gas_Rules_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Règles visant les secteurs du pétrole et du gaz"/>
+    <ContentType_SEC_CDI_Proxy_Rules_And_Schedules_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Règles et annexes"/>
+    <ContentType_SEC_CDI_Regulation_AB_And_Rules_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Réglement AB et règles"/>
+    <ContentType_SEC_CDI_Regulation_FD_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Réglement FD"/>
+    <ContentType_SEC_CDI_Regulation_SK_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Réglement S-K"/>
+    <ContentType_SEC_CDI_Regulation_ST_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Réglement S-T"/>
+    <ContentType_SEC_CDI_Securities_Act_Rules_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Règles de la Securities Act"/>
+    <ContentType_SEC_CDI_Securities_Act_Sections_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Articles de la Securities Act"/>
+    <ContentType_SEC_CDIi_Non_Gaap_Financial_Measures_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - C&amp;DI - Mesures financières non conformes aux PCGR"/>
+    <ContentType_SEC_Corp_Fin_Disclosure_Guidance_Topics_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Directives sur les informations financières fournies par les sociétés"/>
+    <ContentType_SEC_Draft_Registration_Statement_FAQs_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Projet de déclaration d'enregistrement - FAQ"/>
+    <ContentType_SEC_Exchange_Act_Release_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Communiqué relatif à la Exchange Act"/>
+    <ContentType_SEC_Exchange_act_rules_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Règles de la Exchange Act"/>
+    <ContentType_SEC_Financial_Reporting_Manual_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Manuel de présentation de l'information financière"/>
+    <ContentType_SEC_Financial_Reporting_Policies_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Méthodes de présentation de l'information financière"/>
+    <ContentType_SEC_Form_10_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire 10"/>
+    <ContentType_SEC_Form_10K_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire 10-K"/>
+    <ContentType_SEC_Form_10Q_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire 10-Q"/>
+    <ContentType_SEC_Form_11K_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire 11-K"/>
+    <ContentType_SEC_Form_12b_25_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire 12b-25"/>
+    <ContentType_SEC_Form_15_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire 15"/>
+    <ContentType_SEC_Form_1A_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire 1-A"/>
+    <ContentType_SEC_Form_20F_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire 20-F"/>
+    <ContentType_SEC_Form_25_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire 25"/>
+    <ContentType_SEC_Form_6K_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire 6-K"/>
+    <ContentType_SEC_Form_8A_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire 8-A"/>
+    <ContentType_SEC_Form_8K_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire 8-K"/>
+    <ContentType_SEC_Form_D_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire D"/>
+    <ContentType_SEC_Form_F1_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire F-1"/>
+    <ContentType_SEC_Form_F3_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire F-3"/>
+    <ContentType_SEC_Form_F4_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire F-4"/>
+    <ContentType_SEC_Form_F6_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire F-6"/>
+    <ContentType_SEC_Form_S11_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire S-11"/>
+    <ContentType_SEC_Form_S1_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire S-1"/>
+    <ContentType_SEC_Form_S3_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire S-3"/>
+    <ContentType_SEC_Form_S4_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire S-4"/>
+    <ContentType_SEC_Form_S8_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Formulaire S-8"/>
+    <ContentType_SEC_Industry_Guides_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Guides sectoriels"/>
+    <ContentType_SEC_IPTF_Committee_Minutes_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - IPTF Travaux du comité"/>
+    <ContentType_SEC_regulation_x0020_A_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Réglement A"/>
+    <ContentType_SEC_Regulation_12B_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Réglement 12B"/>
+    <ContentType_SEC_Regulation_13A_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Réglement 13A"/>
+    <ContentType_SEC_Regulation_13E_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Réglement 13E"/>
+    <ContentType_SEC_Regulation_14A_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Réglement 14A"/>
+    <ContentType_SEC_Regulation_15D_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Réglement 15D"/>
+    <ContentType_SEC_Regulation_C_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Réglement C"/>
+    <ContentType_SEC_Regulation_D_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Réglement D"/>
+    <ContentType_SEC_Regulation_G_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Réglement G"/>
+    <ContentType_SEC_Regulation_S_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Réglement S"/>
+    <ContentType_SEC_Regulation_SK_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Réglement S-K"/>
+    <ContentType_SEC_Regulation_SX_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Réglement S-X"/>
+    <ContentType_SEC_Regulations_Committee_Minutes_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Travaux du comité de réglementation"/>
+    <ContentType_SEC_Schedule_13E_3_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Annexe 13E-3"/>
+    <ContentType_SEC_Schedule_14A_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Annexe TO"/>
+    <ContentType_SEC_Schedule_TO_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Annexe 13E-3"/>
+    <ContentType_SEC_Securities_Act_Rules_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Règles de la Securities Act"/>
+    <ContentType_SEC_Staff_Accounting_Bulletins_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Bulletins comptables du personnel"/>
+    <ContentType_SEC_Staff_Legal_Bulletins_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Bulletins juridiques du personnel"/>
+    <ContentType_Similarities_Differences_GX
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Points communs et différences"/>
+    <ContentType_SME_Page_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Page des experts"/>
+    <ContentType_Spotlight_GX
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="En vedette"/>
+    <ContentType_Standards_Effective_Dates_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Date d'entrée en vigueur des normes"/>
+    <ContentType_Technical_paper_GX
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Document technique"/>
+    <ContentType_Templates_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Modèles"/>
+    <ContentType_The_Quarter_Close_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Date de fin de trimestre"/>
+    <ContentType_Up_To_Speed_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Up to speed"/>
+    <ContentType_US_GAAP_Today_CA
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Le point sur les PCGR américains"/>
+    <ContentType_Vaktechnische_Magazine_NL
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Vaktechnische magazine"/>
+    <ContentType_Verslaggeving_Toezicht_NL
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Verzekeringsmaatschappijen: verslaggeving &amp; toezicht"/>
+    <ContentType_Video_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Vidéo"/>
+    <ContentType_Video_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Vidéo"/>
+    <ContentType_Webcast_FW
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Webémission"/>
+    <ContentTypeSEC_Financial_Reporting_Release_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC - Publication sur l'information financière"/>
+    <cookie_consent_button_text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Je comprends"/>
+    <cookie_consent_text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Nous utilisons des fichiers témoins « cookies » pour personnaliser le contenu et améliorer votre expérience utilisateur. En poursuivant votre navigation sur ce site, vous consentez à l’utilisation de fichiers témoins. Veuillez lire notre politique en bas de la page pour avoir plus de précisions à ce sujet. Si vous avez des questions sur les fichiers témoins, contactez-nous à l’adresse &lt;a href=&quot;mailto:ca_viewpoint@pwc.com&quot;>ca_viewpoint@pwc.com&lt;/a>."/>
+    <Copy_Link
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Copier le lien"/>
+    <country
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Pays"/>
+    <Did_You_Mean
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Vouliez-vous dire"/>
+    <Download_And_Print_Full_Document
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Télécharger et imprimer le document en entier"/>
+    <Effective_x0020_date
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Date d'entrée en vigueur"/>
+    <emailShare
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="J'ai vu votre nom dans PwC Viewpoint et j'ai une question"/>
+    <entity_Type
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Type d'entité"/>
+    <Error_Message_403
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="&lt;span&gt;Une inscription vous donne accès à un plus grand choix de notre contenu intéressant que nous pouvons adapter à vos préférences. Avec une licence, vous aurez accès au contenu des autorités de réglementation. Cela ne vous prendra que quelques minutes.&lt;/span&gt;  &lt;ul&gt; &lt;li&gt; &lt;a class=&quot;pages-link&quot; href=&quot;https://viewpoint.pwc.com/ca/fr.html&quot;&gt;Accueil&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a class=&quot;pages-link&quot; href=&quot;https://viewpoint.pwc.com/ca/fr/search.html&quot;&gt;Recherche&lt;/a&gt; &lt;/li&gt; &lt;/ul&gt; Cliquez sur Sign in/Register dans le haut de la page.&lt;br/&gt;&lt;br/&gt; Cliquez &lt;a href=&quot;https://pwc-ptp.secure.force.com/informorderform/&quot;&gt;ici&lt;/a&gt; pour acheter une licence Viewpoint.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; Besoin d&#8217;aide? Communiquez avec le &lt;a href=&quot;mailto:ca_viewpoint@pwc.com&quot;&gt;Centre d&#8217;aide de Viewpoint&lt;/a&gt;."/>
+    <Error_Message_404
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="&lt;span&gt;N&#39;h&#233;sitez pas &#224;  essayer un des liens suivants :&lt;/span&gt; &lt;ul&gt; &lt;li&gt; &lt;a class=&quot;pages-link&quot; href=&quot;https://viewpoint.pwc.com/ca/fr.html&quot;&gt;Accueil&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a class=&quot;pages-link&quot; href=&quot;https://viewpoint.pwc.com/ca/fr/search.html&quot;&gt;Recherche&lt;/a&gt; &lt;/li&gt; Besoin d&#8217;aide? Communiquez avec le &lt;a href=&quot;mailto:ca_viewpoint@pwc.com&quot;&gt;Centre d&#8217;aide de Viewpoint&lt;/a&gt;."/>
+    <Error_Message_500
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="&lt;span&gt;N&#39;h&#233;sitez pas &#224; plut&#244;t essayer l&#8217;un des liens suivants:&lt;/span&gt; &lt;ul&gt; &lt;li&gt; &lt;a class=&quot;pages-link&quot; href=&quot;https://viewpoint.pwc.com/ca/fr.html&quot;&gt;Accueil&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a class=&quot;pages-link&quot; href=&quot;https://viewpoint.pwc.com/ca/fr/search.html&quot;&gt;Recherche&lt;/a&gt; &lt;/li&gt; &lt;li&gt; Besoin d&#8217;aide? Communiquez avec le &lt;a href=&quot;mailto:ca_viewpoint@pwc.com&quot;&gt;Centre d&#8217;aide de Viewpoint&lt;/a&gt;."/>
+    <Error_Title_403
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Vous devez être inscrit à Viewpoint ou avoir une licence pour poursuivre la lecture."/>
+    <Error_Title_404
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Malheureusement, la page demandée n'est pas disponible."/>
+    <Error_Title_500
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Nous éprouvons des difficultés techniques. Notre site est temporairement hors service. Veuillez revenir un peu plus tard."/>
+    <Examples
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Exemples"/>
+    <FASB_Crossref_byCodificationLabel
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Par code"/>
+    <FASB_Crossref_byStandardLabel
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Par norme"/>
+    <FASB_Crossref_cancelLabel
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Annuler"/>
+    <FASB_Crossref_Codification_ValidationMsg
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Veuillez saisir au moins un élément"/>
+    <FASB_Crossref_errorMessage
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Erreur lors de la recherche de résultats"/>
+    <FASB_Crossref_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Renvoi"/>
+    <FASB_Crossref_loading_error
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Aucun autre résultat trouvé"/>
+    <FASB_Crossref_noResultsMsg
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Aucun résultat trouvé"/>
+    <FASB_Crossref_okayLabel
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="OK"/>
+    <FASB_Crossref_paragraph
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Paragraphe"/>
+    <FASB_Crossref_paragraphLabel
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Taper le paragraphe"/>
+    <FASB_Crossref_result_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Étiquette"/>
+    <FASB_Crossref_result_Paragraph
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Paragraphe"/>
+    <FASB_Crossref_result_Section
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Section"/>
+    <FASB_Crossref_result_standardNumber
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Numéro de norme"/>
+    <FASB_Crossref_result_Subtopic
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Subtopic"/>
+    <FASB_Crossref_result_Topic
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Topic"/>
+    <FASB_Crossref_result_Type
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Type"/>
+    <FASB_Crossref_section
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Section"/>
+    <FASB_Crossref_section_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Indiquer la section/le chapitre"/>
+    <FASB_Crossref_server_error
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Une erreur s'est produite"/>
+    <FASB_Crossref_standard_validation
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Veuillez sélectionner au moins un type de norme"/>
+    <FASB_Crossref_standardNumber
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Numéro de norme"/>
+    <FASB_Crossref_standardNumber_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Sélectionner un numéro de norme"/>
+    <FASB_Crossref_standardType
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Type de norme"/>
+    <FASB_Crossref_standardType_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Sélectionner un type de norme"/>
+    <FASB_Crossref_submitLabel
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Soumettre"/>
+    <FASB_Crossref_subTopic
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Subtopic"/>
+    <FASB_Crossref_subTopic_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Indiquer le sous-sujet"/>
+    <FASB_Crossref_Topic
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Sujet"/>
+    <FASB_Crossref_Topic_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Indiquer le sujet"/>
+    <FASB_Crossref_validation_msg
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Saisir au moins une valeur"/>
+    <Frequently_x0020_asked_x0020_questions
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Foires aux questions"/>
+    <Frequently_x0020_Asked_x0020_Questions_x0020__x0028_FAQs_x0029_
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Foires aux questions"/>
+    <Header_Menu
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Menu"/>
+    <header_email_body
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="J'ai pensé que vous trouveriez ce contenu de PwC Viewpoint instructif."/>
+    <header_email_subject
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Partager du contenu de  PwC Viewpoint"/>
+    <Header_Search_all_guidance
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Parcourir toutes les directives"/>
+    <Helpful_links
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Liens utiles"/>
+    <Homepage_Alert_Tile_Of_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="de"/>
+    <Homepage_Featured_Collapse
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Moins"/>
+	<Homepage_Featured_Expand
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Plus"/>
+	<Homepage_Featured_Read_More
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="En savoir plus"/>
+	<Homepage_Featured_Show_Less
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Afficher moins"/>
+    <Homepage_Featured_Show_More
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Afficher plus"/>
+    <Homepage_Featured_Tile_Summary_Heading
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="En résumé…"/>
+    <Homepage_Featured_Tile_Updated_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="mis à jour"/>
+    <Homepage_Hero_Tile_Updated_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="mis à jour"/>
+    <Homepage_Insights_Link_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Cliquer ici"/>
+    <Homepage_Insights_Updated_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="mis à jour"/>
+    <Homepage_Most_Popular_Heading
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Plus populaire"/>
+    <Homepage_Most_Popular_Logout_Message
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Veuillez vous connecter pour voir le contenu"/>
+    <Homepage_Most_Popular_Updated_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="mis à jour"/>
+    <Homepage_Newslist_ShowLess_Button_Title
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Afficher moins"/>
+    <Homepage_Newslist_ShowMore_Button_Title
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Afficher plus"/>
+    <Homepage_RecentlyViewed_ShowMore_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AFFICHER PLUS"/>
+    <Homepage_RecentlyViewed_ShowLess_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AFFICHER MOINS"/>
+    <industries
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Secteur"/>
+    <Industry_x0020_insights
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Perspectives du consultant"/>
+    <Industry_x0020_Insights
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Perspectives du consultant"/>
+    <Internal_User_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Pour usage interne seulement"/>
+    <Language_AU_EN
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Australie (anglais)"/>
+    <Language_CA_EN
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Canada (anglais)"/>
+    <Language_CA_FR
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Canada (français)"/>
+    <Language_CN_EN
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Chine (anglais)"/>
+    <Language_CN_ZH
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Chine (chinois)"/>
+    <Language_EU_EN
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Union européenne (anglais)"/>
+    <Language_GX_EN
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Site mondial (anglais)"/>
+    <Language_IE_EN
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Irlande (anglais)"/>
+    <Language_JP_EN
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Japon (anglais)"/>
+    <Language_JP_JA
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Japon (japonais)"/>
+    <Language_NL_EN
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Pays-Bas (anglais)"/>
+    <Language_NL_NL
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Pays-Bas (néerlandais)"/>
+    <Language_UK_EN
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Royaume-Uni (anglais)"/>
+    <Language_US_EN
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="États-Unis (anglais)"/>
+    <Link_Copied
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Lien copié"/>
+    <media_Type
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Type de média"/>
+    <Multimedia_Audio_Continue_Message
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Poursuivre l'écoute"/>
+    <Multimedia_Audio_Not_Supported_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Votre fureteur ne prend pas en charge les balises audio HTML5 ou le fichier audio ne peut être exécuté."/>
+    <Multimedia_Audio_Thank_You_Message
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Merci d'avoir écouté notre contenu"/>
+    <Multimedia_Continue_Watching_Message
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Continuer à regarder"/>
+    <Multimedia_Internal_Only_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Pour usage interne seulement"/>
+    <Multimedia_Next_Button_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Suivant"/>
+    <Multimedia_Previous_Button_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Précédent"/>
+    <Multimedia_Related_Content
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Contenu connexe"/>
+    <Multimedia_Revised
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="révisé"/>
+    <Multimedia_Thank_You_Message
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Merci d'avoir regardé notre contenu"/>
+    <Multimedia_Transcription_Link_Button_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Aller à ce contenu"/>
+    <Overview_Read_Less
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Lire moins"/>
+    <Overview_Read_More
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Lire plus"/>
+    <PDF_Dwnld_Examples
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Exemples"/>
+    <PDF_Dwnld_Fail
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Échec du téléchargement du PDF. Veuillez essayer de nouveau plus tard."/>
+    <PDF_Dwnld_FAQ
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Foire aux questions (FAQ)"/>
+    <PDF_Dwnld_Industry_Insights
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Aperçu du secteur"/>
+    <PDF_Dwnld_Related_Content
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Contenu connexe"/>
+    <PDF_Dwnld_SME
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Experts en la matière"/>
+    <PDF_Dwnld_Templates
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Modèles"/>
+    <Pending_Content
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Contenu à venir"/>
+    <Preferences_Industry_Asset_Management
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Gestion d'actifs"/>
+    <Preferences_Industry_Banking_And_Capital_Markets
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Banques et marchés financiers"/>
+    <Preferences_Industry_Consumer_Markets
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Marchés de consommation"/>
+    <Preferences_Industry_Energy_Utilities_and_Mining
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Énergie, services publics et ressources"/>
+    <Preferences_Industry_Health
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Soins de santé"/>
+    <Preferences_Industry_Industrial_Products
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Produits industriels"/>
+    <Preferences_Industry_Insurance
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Assurance"/>
+    <Preferences_Industry_Private_Equity
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Investissement privé"/>
+    <Preferences_Industry_Law_Firm_Services
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message=""/>
+    <Preferences_Industry_Financial_Services
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message=""/>
+    <Preferences_Industry_PwC_Private
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message=""/>
+    <Preferences_Industry_Real_Estate
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Immobilier"/>
+    <Preferences_Industry_Technology_Media_And_Telecommunications
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Technologies, médias et télécommunications"/>
+    <Preferences_Title_academic
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Universitaire"/>
+    <Preferences_Title_accounting_director
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Directeur principal/directeur, Comptabilité"/>
+    <Preferences_Title_controller
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Contrôleur"/>
+    <Preferences_Title_csuite
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Haut dirigeant"/>
+    <Preferences_Title_investor
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Investisseur"/>
+    <Preferences_Title_staff-accountant
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Comptable"/>
+    <Preparing_Toc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Préparation de la table des matières"/>
+    <Print_Current_Screen
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Imprimer la page active"/>
+    <printDisclaimer
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Ce contenu est protégé par le droit d'auteur.  Il est destiné à votre usage personnel - il est interdit de le distribuer. \Ces documents ont été téléchargés sous licence à partir de Viewpoint de PwC (viewpoint.pwc.com)."/>
+    <PWC
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="PwC"/>
+    <pwc_Content_Type
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Type de contenu"/>
+    <Reference_Link_Show_Less
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Afficher moins"/>
+    <Reference_Link_Show_More
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Afficher plus"/>
+    <Related_x0020_content
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Contenu connexe"/>
+    <Related_x0020_Content
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Contenu connexe"/>
+    <Related_Content_Protected_Cta
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Cliquez pour plus de détails."/>
+    <Related_Content_Protected_Desc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Ce contenu est protégé. Veuillez cliquer sur le lien pour plus de détails."/>
+    <Related_Content_Protected_Heading
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Accès requis"/>
+    <Search_Back_to_Top
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Retour en haut"/>
+    <Search_Cancel
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Annuler"/>
+    <Search_Facet_All_Filters
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Tous les filtres"/>
+    <Search_Facet_Applied_Filter
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Filtres appliqués"/>
+    <Search_Facet_Apply_Filter
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Appliquer les filtres"/>
+    <Search_Facet_Apply_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Appliquer"/>
+    <Search_Facet_ca
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Canada"/>
+    <Search_Facet_Clear_All_Filter
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Tout effacer"/>
+    <Search_Facet_Default_Filter
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Par défaut"/>
+    <Search_Facet_Filter
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Filtre"/>
+    <Search_Facet_Filter_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Filtre"/>
+    <Search_Facet_gx
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Mondial"/>
+    <Search_Facet_ie
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Irlande"/>
+    <Search_Facet_jp
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Japon"/>
+    <Search_Facet_uk
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Royaume-Uni"/>
+    <Search_Facet_Update_Filter
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Mettre à jour les filtres"/>
+    <Search_Facet_us
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="États-Unis"/>
+    <Search_Header_Filter_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Les filtres de recherche suivants sont appliqués. Pour élargir votre recherche, désactivez certains filtres et cliquez sur « Mettre à jour ». Pour une gestion complète des filtres, veuillez utiliser le panneau de contrôle des filtres à gauche."/>
+    <Search_Header_Filters_Applied_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Appliqué"/>
+    <Search_Header_Filters_Count_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Filtres"/>
+    <Search_Header_Update_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Mise à jour"/>
+    <Search_Items
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Éléments"/>
+    <Search_Last_Viewed
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Dernier visualisé"/>
+    <Search_Next
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Prochain"/>
+    <Search_No_Result
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Votre recherche n’a donné aucun résultat. Si vous n’avez pas ouvert de session, veuillez le faire et réessayer. Sinon, utilisez un autre terme de recherche."/>
+    <Search_Previous
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Préc."/>
+    <Search_Publlication_New
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Dernière date de publication"/>
+    <Search_Relevancy
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Pertinence"/>
+    <Search_Results
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Résultats de recherche"/>
+    <Search_Revised_New
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Dernière date de révision"/>
+    <Search_Sort_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Trier"/>
+    <Search_Title_Acs
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Titre (a-z)"/>
+    <Search_Title_Desc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Titre (z-a)"/>
+    <Search_Update
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Mise à jour"/>
+    <Search_View
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Afficher"/>
+    <Search_Within_Document
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Within_Document"
+        sling:message="Recherche d’une section..."/>
+    <Search_Within_Doc_Title
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Within_Doc_Title"
+        sling:message="Recherche dans une section"/>
+    <Search_Within_Doc_Description
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Within_Doc_Description"
+        sling:message="Sélectionnez une section ci-après et tapez votre recherche. Pour faire une recherche globale, cliquez sur"/>
+    <Search_Within_Doc_Enter_The_Keyword
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Within_Doc_Enter_The_Keyword"
+        sling:message="Recherche..."/>
+    <Share
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Partager"/>
+    <Share_Via_Email
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Partager par courriel"/>
+    <Share_Via_Linkedin
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Partager sur LinkedIn"/>
+    <Share_Via_Twitter
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Partager sur Twitter"/>
+    <Side_By_Side_Go_To_Content
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_Go_To_Content"
+        sling:message="Aller à"/>
+    <Sitemap_Globe_Tooltip
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Voici votre plan de site"/>
+    <Sme_Contact_Email
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Courriel"/>
+    <Sme_Contact_Linkedin
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="LinkedIn"/>
+    <source
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Source"/>
+    <ss_afm
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AFM"/>
+    <ss_aicpa
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AICPA"/>
+    <ss_apb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="APB"/>
+    <ss_asic
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="ASIC"/>
+    <ss_cai
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Enquête préalable à l’acceptation du client"/>
+    <ss_cma
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="CMA"/>
+    <ss_companies_house
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Companies House"/>
+    <ss_coso
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="COSO"/>
+    <ss_cpa_canada
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="CPA Canada"/>
+    <ss_cpa_handbook
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Manuel de CPA Canada"/>
+    <ss_dasb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="DASB"/>
+    <ss_dnb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="DNB"/>
+    <ss_dtr
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="DTR"/>
+    <ss_eiopa
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AEAPP"/>
+    <ss_eitf
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="EITF"/>
+    <ss_esma
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="AEMF"/>
+    <ss_eu
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="UE"/>
+    <ss_europian_commission
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Commission européenne"/>
+    <ss_fasab
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASAB"/>
+    <ss_fasb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FASB"/>
+    <ss_fca
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FCA"/>
+    <ss_frc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FRC"/>
+    <ss_gao
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="GAO"/>
+    <ss_gasb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="GASB"/>
+    <ss_global
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Mondial"/>
+    <ss_hefc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="HEFC"/>
+    <ss_iaasa
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="IAASA"/>
+    <ss_iaasb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="IAASB"/>
+    <ss_iasb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="IASB"/>
+    <ss_iasb_sme
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="IASB (PME)"/>
+    <ss_icaew
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="ICAEW"/>
+    <ss_ideagen
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Ideagen"/>
+    <ss_ifric
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="IFRIC"/>
+    <ss_ipsa
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="IPSA"/>
+    <ss_irish_gov
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Gouvernement irlandais"/>
+    <ss_ivsc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="IVSC"/>
+    <ss_jersey_gov
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Gouvernement de Jersey"/>
+    <ss_koninklijk_actuarial_genootschap
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Koninklijk Actuarial Genootschap (AG)"/>
+    <ss_ministerie_van_binnenlandse_zaken
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Ministerie van Binnenlandse Zaken"/>
+    <ss_ministerie_van_financiën
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Ministerie van Financiën"/>
+    <ss_ministerie_van_financi_x251c__x00bd_n
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Ministerie van Financi├½n"/>
+    <ss_monitoring_commissie_corporate_governance_code
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Monitoring Commissie Corporate Governance Code"/>
+    <ss_nba
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="NBA"/>
+    <ss_overheid
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Overheid"/>
+    <ss_pcaob
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="PCAOB"/>
+    <ss_pensioenfederatie
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Pensioenfederatie"/>
+    <ss_prag
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="PRAG"/>
+    <ss_pwc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="PwC"/>
+    <ss_rj
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="RJ"/>
+    <ss_sec
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="SEC"/>
+    <ss_uk_gov
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Gouvernement du Royaume-Uni"/>
+    <ss_verbond_van_verzekeraars
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Verbond van Verzekeraars"/>
+    <Subject_x0020_matter_x0020_experts
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Experts en la matière"/>
+    <Suggested_Content
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Contenu suggéré"/>
+    <Suggested_Guidance
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Directives suggérées"/>
+    <Suggested_Terms
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Termes suggérés"/>
+    <Templates
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Date d’entrée en vigueur"/>
+    <topic
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Sujet"/>
+    <Topic_FAQ_Answer_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Réponse"/>
+    <Topic_FAQ_Default_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="FAQ"/>
+    <Topic_FAQ_Hide_Answer
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Masquer la réponse"/>
+    <Topic_FAQ_Question_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Question"/>
+    <Topic_FAQ_Read_More
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Lire davantage"/>
+    <Topic_FAQ_See_Answer
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Voir la réponse"/>
+    <Transition_Date
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Date de transition"/>
+    <Transition_Guidance
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Directives de transition"/>
+    <type_Of_GAAP
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Type de PCGR"/>
+    <type_Of_GAAS
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Types de NAGR"/>
+    <Updated_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="mis à jour"/>
+    <UserReg_1_Of_2
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="1 de 2"/>
+    <UserReg_2_Of_2
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="2 de 2"/>
+    <User_Concurrent_Access_Restricted_Popup_Title
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="User_Concurrent_Access_Restricted_Popup_Title"
+        sling:message="Une licence est requise pour poursuivre la lecture"/>
+    <User_Concurrent_Access_Restricted_Message_Licensed
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="User_Concurrent_Access_Restricted_Message_Licensed"
+        sling:message="Vous tentez d'accéder à un contenu sous licence. Tous les sièges concurrents sont actuellement utilisés, veuillez réessayer à nouveau sous peu"/>
+    <User_Perseat_Access_Restricted_Popup_Title
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="User_Perseat_Access_Restricted_Popup_Title"
+        sling:message="Demandez une licence pour continuer à lire"/>
+    <User_Perseat_Access_Restricted_Message_Licensed
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="User_Perseat_Access_Restricted_Message_Licensed"
+        sling:message="Vous tentez d'accéder à un contenu sous licence. Cliquez &lt;a href=&quot;https://viewpoint.pwc.com/dt/ca/fr/viewpoint---faqs/Viewpoint-FAQs/Foires-aux-questions/Viewpoint-licensing.html&quot; class=&quot;msg-click-here&quot;&gt;ici&lt;/a&gt; pour demander une licence Viewpoint."/>
+    <Internal_Only_Error_Popup_Title
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Internal_Only_Error_Popup_Title"
+        sling:message="Contenu interne de PwC."/>
+    <Internal_Only_Error_Popup_Message
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Internal_Only_Error_Popup_Message"
+        sling:message="Contenu réservé aux professionnels de PwC. Veuillez utiliser le menu pour consulter tout autre contenu accessible sur le site."/>
+    <UserReg_Blacklisted_Domain
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Les adresses courriel de PwC ne peuvent être utilisées pour l'inscription sur le Web. Veuillez utiliser une adresse différente."/>
+    <UserReg_Cancel
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Annuler"/>
+    <UserReg_ChangePassword_Button_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Modifier votre mot de passe"/>
+    <UserReg_ChangePassword_Invalid_Matched_Old
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Le mot de passe ne peut pas être identique aux 10 mots de passe précédents"/>
+    <UserReg_ChangePassword_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Modifier le mot de passe"/>
+    <UserReg_ChangePassword_NewPassword_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Nouveau mot de passe"/>
+    <UserReg_ChangePassword_OldPassword_Incorrect
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="L'ancien mot de passe est erroné"/>
+    <UserReg_ChangePassword_OldPassword_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Ancien mot de passe"/>
+    <UserReg_ChangePassword_Success_EditProfile_Failed
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Le mot de passe a bien été modifié, mais la modification du profil a échoué."/>
+    <UserReg_CompleteYourProfile
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Créer le profil avant d’ouvrir une session"/>
+    <UserReg_Continue
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Continuer"/>
+    <UserReg_Duplicate_Email
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Le compte existe déjà"/>
+    <UserReg_Country_List
+            jcr:mixinTypes="[sling:Message]"
+            jcr:primaryType="nt:folder"
+            sling:message="&lt;option value=&quot;AF&quot;&gt;Afghanistan&lt;/option&gt; &lt;option value=&quot;AX&quot;&gt;Åland&lt;/option&gt; &lt;option value=&quot;AL&quot;&gt;Albanie&lt;/option&gt; &lt;option value=&quot;DZ&quot;&gt;Algérie&lt;/option&gt; &lt;option value=&quot;AS&quot;&gt;Samoa américaines&lt;/option&gt; &lt;option value=&quot;AD&quot;&gt;Andorre&lt;/option&gt; &lt;option value=&quot;AO&quot;&gt;Angola&lt;/option&gt; &lt;option value=&quot;AI&quot;&gt;Anguilla&lt;/option&gt; &lt;option value=&quot;AQ&quot;&gt;Antarctique&lt;/option&gt; &lt;option value=&quot;AG&quot;&gt;Antigua-et-Barbuda&lt;/option&gt; &lt;option value=&quot;AR&quot;&gt;Argentine&lt;/option&gt; &lt;option value=&quot;AM&quot;&gt;Arménie&lt;/option&gt; &lt;option value=&quot;AW&quot;&gt;Aruba&lt;/option&gt; &lt;option value=&quot;AU&quot;&gt;Australie&lt;/option&gt; &lt;option value=&quot;AT&quot;&gt;Autriche&lt;/option&gt; &lt;option value=&quot;AZ&quot;&gt;Azerbaïdjan&lt;/option&gt; &lt;option value=&quot;BS&quot;&gt;Bahamas&lt;/option&gt; &lt;option value=&quot;BH&quot;&gt;Bahreïn&lt;/option&gt; &lt;option value=&quot;BD&quot;&gt;Bangladesh&lt;/option&gt; &lt;option value=&quot;BB&quot;&gt;Barbade&lt;/option&gt; &lt;option value=&quot;BY&quot;&gt;Biélorussie&lt;/option&gt; &lt;option value=&quot;BE&quot;&gt;Belgique&lt;/option&gt; &lt;option value=&quot;BZ&quot;&gt;Belize&lt;/option&gt; &lt;option value=&quot;BJ&quot;&gt;Bénin&lt;/option&gt; &lt;option value=&quot;BM&quot;&gt;Bermudes&lt;/option&gt; &lt;option value=&quot;BT&quot;&gt;Bhoutan&lt;/option&gt; &lt;option value=&quot;BO&quot;&gt;Bolivie&lt;/option&gt; &lt;option value=&quot;BA&quot;&gt;Bosnie-Herzégovine&lt;/option&gt; &lt;option value=&quot;BW&quot;&gt;Botswana&lt;/option&gt; &lt;option value=&quot;BV&quot;&gt;Île Bouvet&lt;/option&gt; &lt;option value=&quot;BR&quot;&gt;Brésil&lt;/option&gt; &lt;option value=&quot;IO&quot;&gt;Territoire britannique de l&#39;océan Indien&lt;/option&gt; &lt;option value=&quot;VG&quot;&gt;Îles Vierges britanniques&lt;/option&gt; &lt;option value=&quot;BN&quot;&gt;Brunéi Darussalam&lt;/option&gt; &lt;option value=&quot;BG&quot;&gt;Bulgarie&lt;/option&gt; &lt;option value=&quot;BF&quot;&gt;Burkina Faso&lt;/option&gt; &lt;option value=&quot;BI&quot;&gt;Burundi&lt;/option&gt; &lt;option value=&quot;KH&quot;&gt;Cambodge&lt;/option&gt; &lt;option value=&quot;CM&quot;&gt;Cameroun&lt;/option&gt; &lt;option value=&quot;CA&quot;&gt;Canada&lt;/option&gt; &lt;option value=&quot;CV&quot;&gt;Cap-Vert&lt;/option&gt; &lt;option value=&quot;KY&quot;&gt;Îles Caïmans&lt;/option&gt; &lt;option value=&quot;CF&quot;&gt;République centrafricaine&lt;/option&gt; &lt;option value=&quot;TD&quot;&gt;Tchad&lt;/option&gt; &lt;option value=&quot;CL&quot;&gt;Chili&lt;/option&gt; &lt;option value=&quot;CN&quot;&gt;Chine&lt;/option&gt; &lt;option value=&quot;CX&quot;&gt;Île Christmas&lt;/option&gt; &lt;option value=&quot;CC&quot;&gt;Îles Cocos (Keeling) &lt;/option&gt; &lt;option value=&quot;CO&quot;&gt;Colombie&lt;/option&gt; &lt;option value=&quot;KM&quot;&gt;Comores&lt;/option&gt; &lt;option value=&quot;CG&quot;&gt;Congo&lt;/option&gt; &lt;option value=&quot;CD&quot;&gt; République démocratique du Congo&lt;/option&gt; &lt;option value=&quot;CK&quot;&gt;Îles Cook&lt;/option&gt; &lt;option value=&quot;CR&quot;&gt;Costa Rica&lt;/option&gt; &lt;option value=&quot;CI&quot;&gt;Côte d&#39;Ivoire&lt;/option&gt; &lt;option value=&quot;HR&quot;&gt;Croatie&lt;/option&gt; &lt;option value=&quot;CW&quot;&gt;Curaçao&lt;/option&gt; &lt;option value=&quot;CY&quot;&gt;Chypre&lt;/option&gt; &lt;option value=&quot;CZ&quot;&gt;République tchèque&lt;/option&gt; &lt;option value=&quot;DK&quot;&gt;Danemark&lt;/option&gt; &lt;option value=&quot;DJ&quot;&gt;Djibouti&lt;/option&gt; &lt;option value=&quot;DM&quot;&gt;Dominique&lt;/option&gt; &lt;option value=&quot;DO&quot;&gt;République dominicaine&lt;/option&gt; &lt;option value=&quot;EC&quot;&gt;Équateur&lt;/option&gt; &lt;option value=&quot;EG&quot;&gt;Égypte&lt;/option&gt; &lt;option value=&quot;SV&quot;&gt;Salvador&lt;/option&gt; &lt;option value=&quot;GQ&quot;&gt;Guinée équatoriale&lt;/option&gt; &lt;option value=&quot;ER&quot;&gt;Érythrée&lt;/option&gt; &lt;option value=&quot;EE&quot;&gt;Estonie&lt;/option&gt; &lt;option value=&quot;ET&quot;&gt;Éthiopie&lt;/option&gt; &lt;option value=&quot;FK&quot;&gt;Îles Falkland (Malouines)&lt;/option&gt; &lt;option value=&quot;FO&quot;&gt;Îles Féroé&lt;/option&gt; &lt;option value=&quot;FJ&quot;&gt;Fidji&lt;/option&gt; &lt;option value=&quot;FI&quot;&gt;Finlande&lt;/option&gt; &lt;option value=&quot;FR&quot;&gt;France&lt;/option&gt; &lt;option value=&quot;GF&quot;&gt;Guyane française&lt;/option&gt; &lt;option value=&quot;PF&quot;&gt;Polynésie française&lt;/option&gt; &lt;option value=&quot;TF&quot;&gt;Terres australes et antarctiques françaises&lt;/option&gt; &lt;option value=&quot;GA&quot;&gt;Gabon&lt;/option&gt; &lt;option value=&quot;GM&quot;&gt;Gambie&lt;/option&gt; &lt;option value=&quot;GE&quot;&gt;Géorgie&lt;/option&gt; &lt;option value=&quot;DE&quot;&gt;Allemagne&lt;/option&gt; &lt;option value=&quot;GH&quot;&gt;Ghana&lt;/option&gt; &lt;option value=&quot;GI&quot;&gt;Gibraltar&lt;/option&gt; &lt;option value=&quot;GR&quot;&gt;Grèce&lt;/option&gt; &lt;option value=&quot;GL&quot;&gt;Groenland&lt;/option&gt; &lt;option value=&quot;GD&quot;&gt;Grenade&lt;/option&gt; &lt;option value=&quot;GP&quot;&gt;Guadeloupe&lt;/option&gt; &lt;option value=&quot;GU&quot;&gt;Guam&lt;/option&gt; &lt;option value=&quot;GT&quot;&gt;Guatemala&lt;/option&gt; &lt;option value=&quot;XC&quot;&gt;Guernesey&lt;/option&gt; &lt;option value=&quot;GG&quot;&gt;Guernesey&lt;/option&gt; &lt;option value=&quot;GN&quot;&gt;Guinée&lt;/option&gt; &lt;option value=&quot;GW&quot;&gt;Guinée - Bissau&lt;/option&gt; &lt;option value=&quot;GY&quot;&gt;Guyane&lt;/option&gt; &lt;option value=&quot;HT&quot;&gt;Haïti&lt;/option&gt; &lt;option value=&quot;HM&quot;&gt;Îles Heard et Macdonald&lt;/option&gt; &lt;option value=&quot;HN&quot;&gt;Honduras&lt;/option&gt; &lt;option value=&quot;HK&quot;&gt;Région administrative spéciale de Hong Kong, Chine&lt;/option&gt; &lt;option value=&quot;HU&quot;&gt;Hongrie&lt;/option&gt; &lt;option value=&quot;IS&quot;&gt;Islande&lt;/option&gt; &lt;option value=&quot;IN&quot;&gt;Inde&lt;/option&gt; &lt;option value=&quot;ID&quot;&gt;Indonésie&lt;/option&gt; &lt;option value=&quot;IQ&quot;&gt;Irak&lt;/option&gt; &lt;option value=&quot;IE&quot;&gt;Irlande&lt;/option&gt; &lt;option value=&quot;IM&quot;&gt;Île de Man&lt;/option&gt; &lt;option value=&quot;IL&quot;&gt;Israël&lt;/option&gt; &lt;option value=&quot;IT&quot;&gt;Italie&lt;/option&gt; &lt;option value=&quot;JM&quot;&gt;Jamaïque&lt;/option&gt; &lt;option value=&quot;JP&quot;&gt;Japon&lt;/option&gt; &lt;option value=&quot;XD&quot;&gt;Jersey&lt;/option&gt; &lt;option value=&quot;JE&quot;&gt;Jersey&lt;/option&gt; &lt;option value=&quot;JO&quot;&gt;Jordanie&lt;/option&gt; &lt;option value=&quot;KZ&quot;&gt;Kazakhstan&lt;/option&gt; &lt;option value=&quot;KE&quot;&gt;Kenya&lt;/option&gt; &lt;option value=&quot;KI&quot;&gt;Kiribati&lt;/option&gt; &lt;option value=&quot;XK&quot;&gt;Kosovo&lt;/option&gt; &lt;option value=&quot;KW&quot;&gt;Koweït&lt;/option&gt; &lt;option value=&quot;KG&quot;&gt;Kirghizistan&lt;/option&gt; &lt;option value=&quot;LA&quot;&gt;Laos&lt;/option&gt; &lt;option value=&quot;LV&quot;&gt;Lettonie&lt;/option&gt; &lt;option value=&quot;LB&quot;&gt;Liban&lt;/option&gt; &lt;option value=&quot;LS&quot;&gt;Lesotho&lt;/option&gt; &lt;option value=&quot;LR&quot;&gt;Liberia&lt;/option&gt; &lt;option value=&quot;LY&quot;&gt;Libye&lt;/option&gt; &lt;option value=&quot;LI&quot;&gt;Liechtenstein&lt;/option&gt; &lt;option value=&quot;LT&quot;&gt;Lituanie&lt;/option&gt; &lt;option value=&quot;LU&quot;&gt;Luxembourg&lt;/option&gt; &lt;option value=&quot;MO&quot;&gt;Région administrative spéciale de Macao, Chine&lt;/option&gt; &lt;option value=&quot;MK&quot;&gt;Macédoine&lt;/option&gt; &lt;option value=&quot;MG&quot;&gt;Madagascar&lt;/option&gt; &lt;option value=&quot;MW&quot;&gt;Malawi&lt;/option&gt; &lt;option value=&quot;MY&quot;&gt;Malaisie&lt;/option&gt; &lt;option value=&quot;MV&quot;&gt;Maldives&lt;/option&gt; &lt;option value=&quot;ML&quot;&gt;Mali&lt;/option&gt; &lt;option value=&quot;MT&quot;&gt;Malte&lt;/option&gt; &lt;option value=&quot;MH&quot;&gt;Îles Marshall&lt;/option&gt; &lt;option value=&quot;MQ&quot;&gt;Martinique&lt;/option&gt; &lt;option value=&quot;MR&quot;&gt;Mauritanie&lt;/option&gt; &lt;option value=&quot;MU&quot;&gt;Île Maurice&lt;/option&gt; &lt;option value=&quot;YT&quot;&gt;Mayotte&lt;/option&gt; &lt;option value=&quot;MX&quot;&gt;Mexique&lt;/option&gt; &lt;option value=&quot;FM&quot;&gt;Micronésie&lt;/option&gt; &lt;option value=&quot;MD&quot;&gt;Moldavie&lt;/option&gt; &lt;option value=&quot;MC&quot;&gt;Monaco&lt;/option&gt; &lt;option value=&quot;MN&quot;&gt;Mongolie&lt;/option&gt; &lt;option value=&quot;ME&quot;&gt;Monténégro&lt;/option&gt; &lt;option value=&quot;MS&quot;&gt;Montserrat&lt;/option&gt; &lt;option value=&quot;MA&quot;&gt;Maroc&lt;/option&gt; &lt;option value=&quot;MZ&quot;&gt;Mozambique&lt;/option&gt; &lt;option value=&quot;MM&quot;&gt;Myanmar&lt;/option&gt; &lt;option value=&quot;NA&quot;&gt;Namibie&lt;/option&gt; &lt;option value=&quot;NR&quot;&gt;Nauru&lt;/option&gt; &lt;option value=&quot;NP&quot;&gt;Népal&lt;/option&gt; &lt;option value=&quot;NL&quot;&gt;Pays-Bas&lt;/option&gt; &lt;option value=&quot;NC&quot;&gt;Nouvelle-Calédonie&lt;/option&gt; &lt;option value=&quot;NZ&quot;&gt;Nouvelle-Zélande&lt;/option&gt; &lt;option value=&quot;NI&quot;&gt;Nicaragua&lt;/option&gt; &lt;option value=&quot;NE&quot;&gt;Niger&lt;/option&gt; &lt;option value=&quot;NG&quot;&gt;Nigéria&lt;/option&gt; &lt;option value=&quot;NU&quot;&gt;Niue&lt;/option&gt; &lt;option value=&quot;NF&quot;&gt;Île Norfolk&lt;/option&gt; &lt;option value=&quot;MP&quot;&gt;Mariannes du Nord&lt;/option&gt; &lt;option value=&quot;NO&quot;&gt;Norvège&lt;/option&gt; &lt;option value=&quot;OM&quot;&gt;Oman&lt;/option&gt; &lt;option value=&quot;PK&quot;&gt;Pakistan&lt;/option&gt; &lt;option value=&quot;PW&quot;&gt;Palau&lt;/option&gt; &lt;option value=&quot;PS&quot;&gt;Territoires palestiniens, occupés&lt;/option&gt; &lt;option value=&quot;PA&quot;&gt;Panama&lt;/option&gt; &lt;option value=&quot;PG&quot;&gt;Papouasie-Nouvelle-Guinée&lt;/option&gt; &lt;option value=&quot;PY&quot;&gt;Paraguay&lt;/option&gt; &lt;option value=&quot;PE&quot;&gt;Pérou&lt;/option&gt; &lt;option value=&quot;PH&quot;&gt;Philippines&lt;/option&gt; &lt;option value=&quot;PN&quot;&gt;Pitcairn&lt;/option&gt; &lt;option value=&quot;PL&quot;&gt;Pologne&lt;/option&gt; &lt;option value=&quot;PT&quot;&gt;Portugal&lt;/option&gt; &lt;option value=&quot;PR&quot;&gt;Porto Rico&lt;/option&gt; &lt;option value=&quot;QA&quot;&gt;Qatar&lt;/option&gt; &lt;option value=&quot;RE&quot;&gt;La Réunion&lt;/option&gt; &lt;option value=&quot;RO&quot;&gt;Roumanie&lt;/option&gt; &lt;option value=&quot;RU&quot;&gt;Russie&lt;/option&gt; &lt;option value=&quot;RW&quot;&gt;Rwanda&lt;/option&gt; &lt;option value=&quot;BL&quot;&gt;Saint-Barthélemy&lt;/option&gt; &lt;option value=&quot;MF&quot;&gt;Saint Martin (partie française) &lt;/option&gt; &lt;option value=&quot;PM&quot;&gt;Saint-Pierre-et-Miquelon &lt;/option&gt; &lt;option value=&quot;VC&quot;&gt;Saint-Vincent-et-les Grenadines &lt;/option&gt; &lt;option value=&quot;WS&quot;&gt;Samoa &lt;/option&gt; &lt;option value=&quot;SM&quot;&gt;Saint-Marin &lt;/option&gt; &lt;option value=&quot;ST&quot;&gt;Sao Tomé-et-Principe &lt;/option&gt; &lt;option value=&quot;SA&quot;&gt;Arabie saoudite &lt;/option&gt; &lt;option value=&quot;SN&quot;&gt;Sénégal &lt;/option&gt; &lt;option value=&quot;RS&quot;&gt;Serbie &lt;/option&gt; &lt;option value=&quot;SC&quot;&gt;Seychelles &lt;/option&gt; &lt;option value=&quot;SL&quot;&gt;Sierra Leone &lt;/option&gt; &lt;option value=&quot;SG&quot;&gt;Singapour &lt;/option&gt; &lt;option value=&quot;SK&quot;&gt;Slovaquie &lt;/option&gt; &lt;option value=&quot;SI&quot;&gt;Slovénie &lt;/option&gt; &lt;option value=&quot;SB&quot;&gt;Îles Salomon &lt;/option&gt; &lt;option value=&quot;SO&quot;&gt;Somalie &lt;/option&gt; &lt;option value=&quot;ZA&quot;&gt;Afrique du Sud &lt;/option&gt; &lt;option value=&quot;GS&quot;&gt;Îles Géorgie du Sud et Sandwich du Sud&lt;/option&gt; &lt;option value=&quot;KR&quot;&gt;Corée du Sud&lt;/option&gt; &lt;option value=&quot;ES&quot;&gt;Espagne &lt;/option&gt; &lt;option value=&quot;LK&quot;&gt;Sri Lanka &lt;/option&gt; &lt;option value=&quot;SH&quot;&gt;Sainte-Hélène&lt;/option&gt; &lt;option value=&quot;KN&quot;&gt;Saint-Christophe&lt;/option&gt; &lt;option value=&quot;LC&quot;&gt;Sainte-Lucie&lt;/option&gt; &lt;option value=&quot;SR&quot;&gt;Suriname &lt;/option&gt; &lt;option value=&quot;SJ&quot;&gt;Svalbard et Jan Mayen&lt;/option&gt; &lt;option value=&quot;SZ&quot;&gt;Swaziland &lt;/option&gt; &lt;option value=&quot;SE&quot;&gt;Suède &lt;/option&gt; &lt;option value=&quot;CH&quot;&gt;Suisse &lt;/option&gt; &lt;option value=&quot;TW&quot;&gt;Taïwan&lt;/option&gt; &lt;option value=&quot;TJ&quot;&gt;Tadjikistan &lt;/option&gt; &lt;option value=&quot;TZ&quot;&gt;Tanzanie, République unie de&lt;/option&gt; &lt;option value=&quot;TH&quot;&gt;Thaïlande &lt;/option&gt; &lt;option value=&quot;TL&quot;&gt;Timor-Oriental&lt;/option&gt; &lt;option value=&quot;TG&quot;&gt;Togo &lt;/option&gt; &lt;option value=&quot;TK&quot;&gt;Tokélaou &lt;/option&gt; &lt;option value=&quot;TO&quot;&gt;Tonga &lt;/option&gt; &lt;option value=&quot;TT&quot;&gt;Trinité-et-Tobago &lt;/option&gt; &lt;option value=&quot;TN&quot;&gt;Tunisie &lt;/option&gt; &lt;option value=&quot;TR&quot;&gt;Turquie &lt;/option&gt; &lt;option value=&quot;TM&quot;&gt;Turkménistan &lt;/option&gt; &lt;option value=&quot;TC&quot;&gt;Îles Turks-et-Caïcos&lt;/option&gt; &lt;option value=&quot;TV&quot;&gt;Tuvalu &lt;/option&gt; &lt;option value=&quot;UG&quot;&gt;Ouganda &lt;/option&gt; &lt;option value=&quot;UA&quot;&gt;Ukraine &lt;/option&gt; &lt;option value=&quot;AE&quot;&gt;Émirats arabes unis &lt;/option&gt; &lt;option value=&quot;UK&quot;&gt;Royaume-Uni &lt;/option&gt; &lt;option value=&quot;GB&quot;&gt;Royaume-Uni &lt;/option&gt; &lt;option value=&quot;US&quot;&gt;États-Unis&lt;/option&gt; &lt;option value=&quot;UM&quot;&gt;Îles mineures éloignées des États-Unis&lt;/option&gt; &lt;option value=&quot;UY&quot;&gt;Uruguay&lt;/option&gt; &lt;option value=&quot;VI&quot;&gt;Îles Vierges américaines&lt;/option&gt; &lt;option value=&quot;UZ&quot;&gt;Ouzbékistan&lt;/option&gt; &lt;option value=&quot;VU&quot;&gt;Vanuatu&lt;/option&gt; &lt;option value=&quot;VA&quot;&gt;Cité du Vatican&lt;/option&gt; &lt;option value=&quot;VE&quot;&gt;Vénézuela&lt;/option&gt; &lt;option value=&quot;VN&quot;&gt;Viêt Nam &lt;/option&gt; &lt;option value=&quot;WF&quot;&gt;Wallis-et-Futuna&lt;/option&gt; &lt;option value=&quot;EH&quot;&gt;Sahara Occidental&lt;/option&gt; &lt;option value=&quot;YE&quot;&gt;Yémen&lt;/option&gt; &lt;option value=&quot;ZM&quot;&gt;Zambie&lt;/option&gt; &lt;option value=&quot;ZW&quot;&gt;Zimbabwe&lt;/option&gt; &lt;option value=&quot;XX&quot;&gt;Autre&lt;/option&gt;"/>
+    <UserReg_Edit
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Modifier"/>
+    <UserReg_EditProfile
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Profil"/>
+    <UserReg_EditProfile_First_Name
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Prénom"/>
+    <UserReg_EditProfile_Last_Name
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Nom de famille"/>
+    <UserReg_EditProfile_Newsletter
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Bulletin (facultatif)"/>
+    <UserReg_Extend_Session_Timeout_Title
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Extend_Session_Timeout_Title"
+        sling:message="Garder la session ouverte"/>
+    <UserReg_Extend_Session_Timeout_Text_1
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Extend_Session_Timeout_Text_1"
+        sling:message="Êtes-vous toujours là? Cliquez"/>
+    <UserReg_Extend_Session_Timeout_Text_2
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Extend_Session_Timeout_Text_2"
+        sling:message="ici"/>
+    <UserReg_Extend_Session_Timeout_Text_3
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Extend_Session_Timeout_Text_3"
+        sling:message="pour prolonger votre session afin de continuer à lire notre contenu sous licence, sinon vous serez automatiquement déconnecté."/>
+    <UserReg_Gated_Content_Internal_Only_Heading
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Gated_Content_Internal_Only_Heading"
+        sling:message="Contenu de PwC seulement. Ouvrez une session pour continuer à lire."/>
+    <UserReg_Gated_Content_Heading
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Veuillez vous inscrire pour poursuivre votre lecture."/>
+    <UserReg_Gated_Content_Heading_Licensed
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Gated_Content_Heading_Licensed"
+        sling:message="Ouvrez une session ou demandez une licence pour continuer à lire."/>
+    <UserReg_Gated_Content_Message
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Prenez quelques minutes pour vous inscrire, afin d’accéder à du contenu supplémentaire et adapté à vos préférences"/>
+    <UserReg_Gated_Content_Message_Licensed
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Gated_Content_Message_Licensed"
+        sling:message="Vous tentez d’accéder à du contenu sous licence. Veuillez ouvrir une session. Si vous n’avez pas de licence, &lt;a href=&quot;https://viewpoint.pwc.com/dt/ca/fr/viewpoint---faqs/Viewpoint-FAQs/Foires-aux-questions/Viewpoint-licensing.html&quot; class=&quot;msg-click-here&quot;&gt;cliquez ici&lt;/a&gt; pour acheter une licence Viewpoint."/>
+    <UserReg_Gated_Content_Message_Premium
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Gated_Content_Message_Premium"
+        sling:message="Avec une inscription gratuite, vous aurez accès à plus de contenu, qui sera d’ailleurs adapté à vos préférences. Cela ne vous prendra que quelques minutes."/>
+    <UserReg_Gated_Content_Message_External_Redirect
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Une inscription vous donne accès à un plus grand choix de notre contenu intéressant que nous pouvons adapter à vos préférences. Cela ne vous prendra que quelques minutes."/>
+    <UserReg_Gated_Content_Register
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Inscription"/>
+    <UserReg_Gated_Content_Sign_In
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Connexion"/>
+    <UserReg_GenericError
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Une erreur s'est produite. Veuillez essayer de nouveau."/>
+    <UserReg_Header_Hello
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Bonjour {0}"/>
+    <UserReg_Image_Upload_Error_Message
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Échec du chargement de l'image"/>
+    <UserReg_InternalServer_Error
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Erreur de serveur interne"/>
+    <UserReg_Invalid
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Non valide "/>
+    <UserReg_Invalid_Company_Name
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Le nom de la société doit compter au moins deux caractères"/>
+    <UserReg_Invalid_Email
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Courriel non valide"/>
+    <UserReg_License_Content_Available
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_License_Content_Available"
+        sling:message="Disponible"/>
+	<UserReg_License_Content_Close_Button_label
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_License_Content_Close_Button_label"
+        sling:message="OK"/>
+    <UserReg_License_Content_Heading
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_License_Content_Heading"
+        sling:message="Disponibilité du contenu de la licence"/>
+    <UserReg_License_Content_Unavailable
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_License_Content_Unavailable"
+        sling:message="Non disponible"/>
+    <UserReg_License_Content_Unavailable_Message
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_License_Content_Unavailable_Message"
+        sling:message="Toutes les licences simultanées sont en cours d’utilisation. Veuillez essayer plus tard."/>
+    <UserReg_Login_Close
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Fermer"/>
+    <UserReg_Login_Sign_In
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Connexion"/>
+    <UserReg_Logout
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Se déconnecter"/>
+    <UserReg_Preferences_Country_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Pays ou région"/>
+    <UserReg_Preferences_Gaap_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Type de PCGR"/>
+    <UserReg_Preferences_Gaas_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Type de NAGR"/>
+    <UserReg_Preferences_Heading
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Site et contenu : préférences"/>
+    <UserReg_Preferences_Industry_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Secteurs"/>
+    <UserReg_Preferences_Language_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Langue"/>
+    <UserReg_Preferences_Modal_Two_Heading
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Site et contenu : préférences (suite)"/>
+    <UserReg_Preferences_Modal_Two_SubHeading
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Nous faire part de vos préférences est facultatif, mais cela nous aidera à personnaliser votre expérience sur le site."/>
+    <UserReg_Preferences_NoPrimaryLangauge_Selected
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Veuillez sélectionner au moins une langue comme langue principale"/>
+    <UserReg_Preferences_NoPrimaryTerritory_Selected
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Veuillez sélectionner au moins un pays comme pays principal"/>
+    <UserReg_Preferences_OneLanguagePerCountry
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Sélectionner au moins une langue par pays choisi"/>
+    <UserReg_Preferences_Primary
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="(principale)"/>
+    <UserReg_Preferences_Set_As_Primary
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="(établir comme caractéristique principale)"/>
+    <UserReg_Preferences_SubHeading
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Vous pouvez choisir le filtre de contenu par défaut pour étendre la recherche à d’autres territoires."/>
+    <UserReg_Preferences_Topic_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Sujet"/>
+    <UserReg_Previous
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Précédent"/>
+    <UserReg_Register
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Inscription"/>
+    <UserReg_Register_Acknowledge_Text_EN_CA
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="By providing your details and checking the box, you acknowledge you have read the &lt;a href=&quot;/ca/en/privacy.html&quot; target=&quot;_blank&quot;>Privacy Statement&lt;/a> and &lt;a href=&quot;/ca/en/terms-and-conditions.html&quot; target=&quot;_blank&quot;>Terms and Conditions&lt;/a> (including the sections in each related to Registered Users)."/>
+    <UserReg_Register_Acknowledge_Text_EN_GB
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="By providing your details and checking the box, you acknowledge you have read the &lt;a href=&quot;/uk/en/privacy.html&quot; target=&quot;_blank&quot;>Privacy Statement&lt;/a> and &lt;a href=&quot;/uk/en/terms-and-conditions.html&quot; target=&quot;_blank&quot;>Terms and Conditions&lt;/a> (including the sections in each related to Registered Users)."/>
+    <UserReg_Register_Acknowledge_Text_EN_GX
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="By providing your details and checking the box, you acknowledge you have read the &lt;a href=&quot;/gx/en/privacy.html&quot; target=&quot;_blank&quot;>Privacy Statement&lt;/a> and &lt;a href=&quot;/gx/en/terms-and-conditions.html&quot; target=&quot;_blank&quot;>Terms and Conditions&lt;/a> (including the sections in each related to Registered Users)."/>
+    <UserReg_Register_Acknowledge_Text_EN_IE
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="By providing your details and checking the box, you acknowledge you have read the &lt;a href=&quot;/ie/en/privacy.html&quot; target=&quot;_blank&quot;>Privacy Statement&lt;/a> and &lt;a href=&quot;/ie/en/terms-and-conditions.html&quot; target=&quot;_blank&quot;>Terms and Conditions&lt;/a> (including the sections in each related to Registered Users)."/>
+    <UserReg_Register_Acknowledge_Text_EN_UK
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="By providing your details and checking the box, you acknowledge you have read the &lt;a href=&quot;/uk/en/privacy.html&quot; target=&quot;_blank&quot;>Privacy Statement&lt;/a> and &lt;a href=&quot;/uk/en/terms-and-conditions.html&quot; target=&quot;_blank&quot;>Terms and Conditions&lt;/a> (including the sections in each related to Registered Users)."/>
+    <UserReg_Register_Acknowledge_Text_JA_JP
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="By providing your details and checking the box, you acknowledge you have read the  &lt;a href=&quot;#&quot;>Privacy Statement&lt;/a> and &lt;a href=&quot;/jp/ja/terms-and-conditions.html&quot;>Terms and Conditions&lt;/a> (including the sections in each related to Registered Users)."/>
+    <UserReg_Register_Acknowledge_Text_EN_US
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="En fournissant vos renseignements personnels et en cochant la case, vous reconnaissez avoir lu&lt;a href=&quot;/us/en/privacy.html&quot; target=&quot;_blank&quot;>l’énoncé de protection des renseignements personnels &lt;/a> et les &lt;a href=&quot;/us/en/terms-and-conditions.html&quot; target=&quot;_blank&quot;>conditions générales&lt;/a> (y compris les sections relatives aux utilisateurs inscrits).*"/>
+    <UserReg_Register_Acknowledge_Text_FR_CA
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="En fournissant vos renseignements personnels et en cochant la case, vous reconnaissez avoir pris connaissance de la &lt;a href=&quot;/ca/fr/privacy.html&quot; target=&quot;_blank&quot;>Déclaration sur la protection des renseignements personnels&lt;/a> et des &lt;a href=&quot;/ca/fr/terms-and-conditions.html&quot; target=&quot;_blank&quot;>conditions&lt;/a> (y compris les sections relatives aux utilisateurs inscrits).*"/>
+    <UserReg_Register_Company_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Société"/>
+    <UserReg_Register_Company_Placeholder
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Nom de la société"/>
+    <UserReg_Register_Country_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Pays ou région"/>
+    <UserReg_Register_Country_Placeholder
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Sélectionner le pays ou la région"/>
+    <UserReg_Register_Email_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Courriel"/>
+    <UserReg_Register_Email_Placeholder
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Adresse courriel"/>
+    <UserReg_Register_First_Name_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Prénom"/>
+    <UserReg_Register_First_Placeholder
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Prénom"/>
+    <UserReg_Register_Industry_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Secteur"/>
+    <UserReg_Register_Industry_Placeholder
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Sélectionner un secteur"/>
+    <UserReg_Register_Language_Placeholder
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Sélectionner"/>
+    <UserReg_Register_Last_Name_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Nom de famille"/>
+    <UserReg_Register_Last_Placeholder
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Nom de famille"/>
+    <UserReg_Register_Subscribe
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Je m’abonne au bulletin et j’accepte de recevoir de l’information sur les produits, services, publications et événements des cabinets membres du réseau PwC."/>
+    <UserReg_Terms_Of_Compliance
+            jcr:mixinTypes="[sling:Message]"
+            jcr:primaryType="nt:folder"
+            sling:message="Conditions d’utilisation"/>
+    <UserReg_Register_Title_Label
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Rôle"/>
+    <UserReg_Register_Title_Placeholder
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Sélectionner un rôle"/>
+    <UserReg_Required
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Champ requis"/>
+    <UserReg_Save
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Sauvegarder"/>
+    <UserReg_Save_Exit
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Sauvegarder et quitter"/>
+    <UserReg_SignIn
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Connexion"/>
+    <UserReg_Tnc_Acceptance_Button
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Accepter la politique en matière de confidentialité et accéder au contenu"/>
+    <UserReg_Tnc_Error_Message
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Une erreur s'est produite. Veuillez essayer de nouveau."/>
+    <UserReg_Tnc_Previous_Page_Button
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Retourner à la page précédente"/>
+    <White_Cross_Img_Alt_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="White Cross"/>
+    <XBRL_References_Header_Text
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="This XBRL element references the following paragraph(s)/term(s):"/>
+    <Your_Recent_Searches
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Recherches récentes"/>
+	<Side_By_Side_This_View_Is_Read_Only
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_This_View_Is_Read_Only"
+        sling:message="&lt;span&gt;&lt;span class=&quot;non-clickable-text-bold&quot;&gt;Cette vue est en mode lecture seulement.&lt;/span&gt; Pour accéder à ce contenu, cliquez sur &lt;span class=&quot;non-clickable-text-bold&quot;&gt;« Aller à  »&lt;/span&gt;.&lt;/span&gt;"/>
+    <Hover_Go_To_Content
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Hover_Go_To_Content"
+        sling:message="Aller à"/>
+    <Hover_Side_By_Side_View
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Hover_Side_By_Side_View"
+        sling:message="Affichage côte à côte"/>
+    <Side_By_Side_Publication_Date
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_Publication_Date"
+        sling:message="Date de publication"/>
+    <Side_By_Side_Updated
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_Updated"
+        sling:message="Mise à jour"/>
+    <Side_By_Side_Add_To_Favorites
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_Add_To_Favorites"
+        sling:message="Ajouter aux favoris"/>
+	<Join_View_Button
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Button"
+        sling:message="Afficher tout"/>
+	<Join_View_Button_Hover
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Button_Hover"
+        sling:message="Ouvrir la vue Afficher tout dans un nouvel onglet"/>
+	<Join_View_Close_Button
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Close_Button"
+        sling:message="Fermer"/>
+	<Join_View_Search_Placeholder
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Search_Placeholder"
+        sling:message="Rechercher sur cette page"/>
+	<Join_View_Read_Only_Message
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Read_Only_Message"
+        sling:message="Cette vue est en mode lecture seulement. Veuillez utiliser l'onglet d'origine pour accéder au contenu et naviguer vers le site principal."/>
+	<Join_View_Side_By_Side_Read_Only
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Side_By_Side_Read_Only"
+        sling:message="This is read only. Please access the original tab or open a new window."/>
+	<Search_Side_By_Side_Preview
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Side_By_Side_Preview"
+        sling:message="Aperçu"/>
+	<Search_Side_By_Side_This_View_Is_Read_Only
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Side_By_Side_This_View_Is_Read_Only"
+        sling:message="Cet aperçu est en mode lecture seulement. Pour accéder à ce contenu,  cliquez sur l'icône « Aller à  »"/>
+	<Search_Side_By_Side_Back_To_Search
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Side_By_Side_Back_To_Search"
+        sling:message="Retourner aux résultats de recherche"/>
+    <UserReg_Favorite_List_Page_Confirm_Remove_Heading
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Page_Confirm_Remove_Heading"
+        sling:message="Êtes-vous sûr de vouloir supprimer cette page de votre liste de favoris?"/>
+    <UserReg_Favorite_List_Page_Confirm_Remove_Cancel
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Page_Confirm_Remove_Cancel"
+        sling:message="Annuler"/>
+    <UserReg_Favorite_List_Page_Confirm_Remove_Yes
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Page_Confirm_Remove_Yes"
+        sling:message="Oui"/>
+    <UserReg_Favorite_List_Login_Heading
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Login_Heading"
+        sling:message="Veuillez ouvrir une session pour ajouter ce contenu à vos favoris."/>
+    <UserReg_Favorite_List_Login_Cancel
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Login_Cancel"
+        sling:message="Annuler"/>
+    <UserReg_Favorite_List_Login_Signin
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Login_Signin"
+        sling:message="Connexion"/>
+    <UserReg_Favorite_List_Dropdown_Heading
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Dropdown_Heading"
+        sling:message="Mes favoris"/>
+    <UserReg_Favorite_List_Content_AddTo_Favorites
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Content_AddTo_Favorites"
+        sling:message="Ajouter aux favoris"/>
+    <UserReg_Favorite_List_Back_To_Top
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Back_To_Top"
+        sling:message="Retour en haut"/>
+    <UserReg_Favorite_List_Prev
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Prev"
+        sling:message="Précédent"/>
+    <UserReg_Favorite_List_Next
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Next"
+        sling:message="Prochain"/>
+    <ContentPage_Next
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="ContentPage_Next"
+        sling:message="Prochain"/>
+    <ContentPage_Prev
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="ContentPage_Prev"
+        sling:message="Précédent"/>
+    <UserReg_Favorite_List_Dropdown_View_All
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Dropdown_View_All"
+        sling:message="Afficher tous les favoris"/>
+    <UserReg_Favorite_List_Favorited_On
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Favorited_On"
+        sling:message="Ajouté le"/>
+    <UserReg_Favorite_List_Items_Label
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Favorite_List_Items_Label"
+        sling:message="Éléments"/>
+    <Preferences_Topic_GX_Brexit
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Brexit"/>
+    <Preferences_Topic_GX_Business_Combinations
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Regroupements d'entreprises"/>
+    <Preferences_Topic_GX_Cybersecurity
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Cybersécurité et technologies"/>
+    <Preferences_Topic_GX_Financial_Instruments
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Instruments financiers"/>
+    <Preferences_Topic_GX_Financial_Reporting
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Information financière"/>
+    <Preferences_Topic_GX_Income_Taxes
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Impôts sur le résultat"/>
+    <Preferences_Topic_GX_Leases
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Contrats de location"/>
+    <Preferences_Topic_GX_Revenue
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Produits des activités ordinaires"/>
+    <Preferences_Topic_GX_Corporate_Governance
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Information financière des sociétés"/>
+    <ContentType_GX_Consultation_memo
+          jcr:primaryType="sling:MessageEntry"
+          sling:key="ContentType_GX_Consultation_memo"
+          sling:message="Consultation memo"/>
+    <ss_csrd
+          jcr:primaryType="sling:MessageEntry"
+          sling:key="ss_csrd"
+          sling:message="CSRD"/>
+    <ss_issb
+          jcr:primaryType="sling:MessageEntry"
+          sling:key="ss_issb"
+          sling:message="ISSB"/>
+  <UserReg_Remove_Session_Heading
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Remove_Session_Heading"
+        sling:message="Vous êtes déjà connecté sur un autre navigateur ou appareil"/>
+  <UserReg_Remove_Session_Top_Message
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Remove_Session_Top_Message"
+        sling:message="Cliquez sur &quot;Continuer&quot; pour fermer les autres sessions actives et continuer. Cliquez sur &quot;Annuler&quot; pour revenir à la page précédente"/>
+  <UserReg_Remove_Session_Continue_Label
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Remove_Session_Continue_Label"
+        sling:message="Continuer"/>
+  <UserReg_Remove_Session_Cancel_Label
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Remove_Session_Cancel_Label"
+        sling:message="Annuler"/>
+  <UserReg_Remove_Session_Bottom_Message
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Remove_Session_Bottom_Message"
+        sling:message="Besoin d'aide ? &lt;a href=&quot;mailto:ca_viewpoint@pwc.com&quot; class=&quot;msg-click-here&quot; &gt;Contactez-nous&lt;/a&gt;."/>
+    <teaser_publication_date
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="teaser_publication_date"
+        sling:message="Dernière date de publication"/>
+</jcr:root>

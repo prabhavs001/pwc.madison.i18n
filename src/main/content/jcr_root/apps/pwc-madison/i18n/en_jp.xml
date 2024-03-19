@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:language="en_jp"
+	jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="nt:folder">
+    <UserReg_Activation_Email_Subject_Title_Re
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="お知らせ：Viewpointであなたのアカウントを有効化する時間です。| Reminder: It's time to activate your account on PwC's Viewpoint."/>
+    <UserReg_ForgotPassword_Email_Subject_Title
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Viewpointパスワードのリセット | PwC Viewpoint password reset"/>
+    <UserReg_ForgotPassword_Email_Subject_Title_IA2
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:message="Viewpointパスワードのリセット | PwC Viewpoint password reset"/>
+    <Side_By_Side_This_View_Is_Read_Only
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_This_View_Is_Read_Only"
+        sling:message="&lt;span&gt;&lt;span class=&quot;non-clickable-text-bold&quot;&gt;This view is read only.&lt;/span&gt; To access this content, click on &lt;span class=&quot;non-clickable-text-bold&quot;&gt;&quot;Go to content&quot;&lt;/span&gt;"/>
+    <Hover_Go_To_Content
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Hover_Go_To_Content"
+        sling:message="コンテンツに移動"/>
+    <Hover_Side_By_Side_View
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Hover_Side_By_Side_View"
+        sling:message="並べて表示"/>
+    <Side_By_Side_Publication_Date
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_Publication_Date"
+        sling:message="Publication date"/>
+    <Side_By_Side_Updated
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_Updated"
+        sling:message="updated"/>
+    <Side_By_Side_Add_To_Favorites
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_Add_To_Favorites"
+        sling:message="Add to Favorites"/>
+	<Join_View_Button
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Button"
+        sling:message="Join View"/>
+	<Join_View_Button_Hover
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Button_Hover"
+        sling:message="Open Join view in a new tab"/>
+	<Join_View_Close_Button
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Close_Button"
+        sling:message="CLOSE"/>
+	<Join_View_Search_Placeholder
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Search_Placeholder"
+        sling:message="Search within this page"/>
+	<Join_View_Read_Only_Message
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Read_Only_Message"
+        sling:message="This view is read only. Please use the original tab to access content and navigate to the main site."/>
+	<Join_View_Side_By_Side_Read_Only
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Side_By_Side_Read_Only"
+        sling:message="This is read only. Please access the original tab or open a new window."/>
+	<Search_Side_By_Side_Preview
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Side_By_Side_Preview"
+        sling:message="Preview"/>
+	<Search_Side_By_Side_This_View_Is_Read_Only
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Side_By_Side_This_View_Is_Read_Only"
+        sling:message="This preview is read only. To access this content, click on the &quot;Go to content&quot; icon."/>
+	<Search_Side_By_Side_Back_To_Search
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Side_By_Side_Back_To_Search"
+        sling:message="Back to search results"/>
+  <toc_click_to_open
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="toc_click_to_open"
+        sling:message="Click to open the Table of Contents"/>
+  <toc_click_to_close
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="toc_click_to_close"
+        sling:message="Click to close the Table of Contents"/>
+  <rc_click_to_open
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="rc_click_to_open"
+        sling:message="Click to open Related Content"/>
+  <rc_click_to_close
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="rc_click_to_close"
+        sling:message="Click to close Related Content"/>
+</jcr:root>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:language="en_ca"
+	jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="nt:folder">
+    <ContentType_AC_Insight_CA
+        jcr:primaryType="nt:folder"
+        sling:message=""/>
+    <Cookie_Consent_Text
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="cookie_consent_text"
+        sling:message="We use cookies to personalise content and to provide you with an improved user experience. By continuing to browse this site, you consent to the use of cookies. Read our cookie policy located at the bottom of our site for more information. If you have any questions pertaining to any of the cookies, please contact us &lt;a href=&quot;mailto:ca_viewpoint@pwc.com&quot;>ca_viewpoint@pwc.com&lt;/a>."/>
+    <Error_Title_500
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Error_Title_500"
+        sling:message="We're experiencing technical difficulties. Our site is down temporarily. Please try again shortly."/>
+    <Error_Message_403
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Error_Message_403"
+        sling:message="&lt;span&gt;A registration yields access to more of our great content and helps us tailor content to your preferences. By requesting a license you will also have access to regulator content. It takes just a few minutes. &lt;/span&gt; &lt;ul&gt; &lt;li&gt; &lt;a class=&quot;pages-link&quot; href=&quot;https://viewpoint.pwc.com/ca/en.html&quot;&gt;Home&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a class=&quot;pages-link&quot; href=&quot;https://viewpoint.pwc.com/ca/en/search.html&quot;&gt;Search&lt;/a&gt; &lt;/li&gt; &lt;/ul&gt; &lt;br/&gt; Click Sign in \\ Register from at the top of the page. &lt;br/&gt; Click &lt;a href=&quot;https://pwc-ptp.secure.force.com/informorderform/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; to purchase a license to Viewpoint. &lt;br/&gt;&lt;br/&gt; Need some help? Contact the &lt;a href=&quot;mailto:CA_Viewpoint@pwc.com&quot;&gt;Viewpoint Help Centre&lt;/a&gt; for support."/>
+    <Error_Message_404
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Error_Message_404"
+        sling:message="&lt;span&gt;Please use one of the links below to access our content:&lt;/span&gt; &lt;ul&gt; &lt;li&gt; &lt;a class=&quot;pages-link&quot; href=&quot;https://viewpoint.pwc.com/ca/en.html&quot;&gt;Home&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a class=&quot;pages-link&quot; href=&quot;https://viewpoint.pwc.com/ca/en/search.html&quot;&gt;Search&lt;/a&gt; &lt;/li&gt; &lt;/ul&gt; Need some help? Contact the &lt;a href=&quot;mailto:CA_Viewpoint@pwc.com&quot;&gt;Viewpoint Help Centre&lt;/a&gt; for support."/>
+    <Error_Message_500
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Error_Message_500"
+        sling:message="&lt;span&gt;Feel free to try one of these links instead:&lt;/span&gt; &lt;ul&gt; &lt;li&gt; &lt;a class=&quot;pages-link&quot; href=&quot;https://viewpoint.pwc.com/ca/en.html&quot;&gt;Home&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a class=&quot;pages-link&quot; href=&quot;https://viewpoint.pwc.com/ca/en/search.html&quot;&gt;Search&lt;/a&gt; &lt;/li&gt; &lt;/ul&gt; Need some help? Contact the &lt;a href=&quot;mailto:CA_Viewpoint@pwc.com&quot;&gt;Viewpoint Help Centre&lt;/a&gt; for support."/>
+    <Error_Title_404
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Error_Title_404"
+        sling:message="Unfortunately, the page you are looking for is unavailable."/>
+    <User_Perseat_Access_Restricted_Message_Licensed
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="User_Perseat_Access_Restricted_Message_Licensed"
+        sling:message="You are trying to access licensed content. Click &lt;a href=&quot;https://viewpoint.pwc.com/dt/ca/en/viewpoint---faqs/Viewpoint-FAQs/Viewpoint-licensing.html&quot; class=&quot;msg-click-here&quot;&gt;here&lt;/a&gt; to request a license to Viewpoint."/>
+    <Internal_Only_Error_Popup_Title
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Internal_Only_Error_Popup_Title"
+        sling:message="PwC internal content"/>
+    <Internal_Only_Error_Popup_Message
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Internal_Only_Error_Popup_Message"
+        sling:message="This content is restricted to PwC professionals. Please use the menu to navigate to other site content available to you."/>
+    <UserReg_Gated_Content_Message_Licensed
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Gated_Content_Message_Licensed"
+        sling:message="You are trying to access licensed content. Please sign in or, if you do not have a license, &lt;a href=&quot;https://viewpoint.pwc.com/dt/ca/en/viewpoint---faqs/Viewpoint-FAQs/Viewpoint-licensing.html&quot; class=&quot;msg-click-here&quot;&gt;click here&lt;/a&gt; to purchase a license to Viewpoint."/>
+    <Side_By_Side_This_View_Is_Read_Only
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_This_View_Is_Read_Only"
+        sling:message="&lt;span&gt;&lt;span class=&quot;non-clickable-text-bold&quot;&gt;This view is read only.&lt;/span&gt; To access this content, click on &lt;span class=&quot;non-clickable-text-bold&quot;&gt;&quot;Go to content&quot;&lt;/span&gt;"/>
+    <Hover_Go_To_Content
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Hover_Go_To_Content"
+        sling:message="Go to content"/>
+    <Hover_Side_By_Side_View
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Hover_Side_By_Side_View"
+        sling:message="Side-by-side view"/>
+    <Side_By_Side_Publication_Date
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_Publication_Date"
+        sling:message="Publication date"/>
+    <Side_By_Side_Updated
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_Updated"
+        sling:message="updated"/>
+    <Side_By_Side_Add_To_Favorites
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Side_By_Side_Add_To_Favorites"
+        sling:message="Add to Favorites"/>
+	<Join_View_Button
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Button"
+        sling:message="Join View"/>
+	<Join_View_Button_Hover
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Button_Hover"
+        sling:message="Open Join view in a new tab"/>
+	<Join_View_Close_Button
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Close_Button"
+        sling:message="CLOSE"/>
+	<Join_View_Search_Placeholder
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Search_Placeholder"
+        sling:message="Search within this page"/>
+	<Join_View_Read_Only_Message
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Read_Only_Message"
+        sling:message="This view is read only. Please use the original tab to access content and navigate to the main site."/>
+	<Join_View_Side_By_Side_Read_Only
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Join_View_Side_By_Side_Read_Only"
+        sling:message="This is read only. Please access the original tab or open a new window."/>
+	<Search_Side_By_Side_Preview
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Side_By_Side_Preview"
+        sling:message="Preview"/>
+	<Search_Side_By_Side_This_View_Is_Read_Only
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Side_By_Side_This_View_Is_Read_Only"
+        sling:message="This preview is read only. To access this content, click on the &quot;Go to content&quot; icon."/>
+	<Search_Side_By_Side_Back_To_Search
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="Search_Side_By_Side_Back_To_Search"
+        sling:message="Back to search results"/>
+  <ContentType_GX_Consultation_memo
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="ContentType_GX_Consultation_memo"
+        sling:message="Consultation memo"/>
+  <ss_csrd
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="ss_csrd"
+        sling:message="CSRD"/>
+  <ss_issb
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="ss_issb"
+        sling:message="ISSB"/>
+  <UserReg_Remove_Session_Bottom_Message
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="UserReg_Remove_Session_Bottom_Message"
+        sling:message="Need some help? &lt;a href=&quot;mailto:ca_viewpoint@pwc.com&quot; class=&quot;msg-click-here&quot; &gt;Contact us&lt;/a&gt;."/>        
+</jcr:root>

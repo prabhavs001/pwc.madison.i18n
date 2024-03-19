@@ -1,0 +1,51 @@
+/bin
+
+# Ignore VLT files
+.vlt
+.vlt-sync.log
+.vlt-sync-config.properties
+ 
+bundle/.classpath
+# Ignore compilation results
+target
+ 
+# Ignore IDE and Operating System artifacts
+.idea
+.classpath
+.metadata
+.project
+.settings
+maven-eclipse.xml
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin 
+.target
+
